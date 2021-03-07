@@ -8,3 +8,5 @@
 変更を加えました　BY NO FAST FORWARD(3/6)
 
 MAKE CONFLICTBRANCH
+
+GitHub上で更新
