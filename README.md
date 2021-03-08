@@ -9,4 +9,4 @@
 
 MAKE CONFLICTBRANCH
 
-GitHub上で更新
+GitHub上で更新２回目
